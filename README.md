@@ -1,1 +1,2 @@
-# image_to_text_conversion_using_ocr
+# Image to Text Conversion Using OCR and Tesseract 
+
